@@ -1,0 +1,1 @@
+This is the basic landing page which describes the login page of a course.This page includes courses,about the course,searching the course and contact to the paricular person.Also includes the social media links of that page.
